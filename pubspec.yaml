@@ -10,7 +10,7 @@ environment:
   sdk: ">=2.0.0-dev.28.0 <3.0.0"
 
 dependencies:
-  flutter:
+  flutter_web:
     sdk: flutter_web
 
 dev_dependencies:
